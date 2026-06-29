@@ -1,1 +1,4 @@
-'{  "version": "1.0.0",  "download_url": "https://github.com/your-username/hcs-release/releases/download/v1.0.0/MyApp.exe"}' 
+{  
+    "version": "1.0.0",  
+    "download_url": "https://github.com/DangKhoi14/hcs-releases/releases/download/v1.0.0/hcs.exe"
+}
